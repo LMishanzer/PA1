@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/mike/PA1/Domaci ukol 3/functions.c
+math.h
+-
+assert.h
+-
+
+/home/mike/PA1/Domaci ukol 3/main.c
+math.h
+-
+float.h
+-
+assert.h
+-
+functions.c
+/home/mike/PA1/Domaci ukol 3/functions.c
+

@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/Domaci_ukol_3.dir/main.c.o CMakeFiles/Domaci_ukol_3.dir/functions.c.o  -o Domaci_ukol_3 

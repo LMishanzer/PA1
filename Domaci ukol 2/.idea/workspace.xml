@@ -14,9 +14,11 @@
     <list default="true" id="5d35efa6-6de4-44bf-9af0-8ec3fabdc87d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/a.out" beforeDir="false" afterPath="$PROJECT_DIR$/a.out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Domaci_ukol_2.dir/main.c.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Domaci_ukol_2.dir/main.c.o" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/Domaci_ukol_2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Domaci_ukol_2" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/data.out" beforeDir="false" afterPath="$PROJECT_DIR$/data.out" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.sh" beforeDir="false" afterPath="$PROJECT_DIR$/test.sh" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -36,7 +38,7 @@
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Domaci ukol 3" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunDashboard">
@@ -72,6 +74,10 @@
       <workItem from="1572197220128" duration="5123000" />
       <workItem from="1572342746520" duration="47000" />
       <workItem from="1572460351926" duration="12051000" />
+      <workItem from="1572516227163" duration="5347000" />
+      <workItem from="1572622469630" duration="4522000" />
+      <workItem from="1573052462027" duration="1932000" />
+      <workItem from="1573129123538" duration="21000" />
     </task>
     <servers />
   </component>
