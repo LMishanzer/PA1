@@ -1,0 +1,3 @@
+/home/mike/PA1/Domaci ukol 5/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/mike/PA1/Domaci ukol 5/cmake-build-debug/CMakeFiles/Domaci_ukol_5.dir
+/home/mike/PA1/Domaci ukol 5/cmake-build-debug/CMakeFiles/edit_cache.dir

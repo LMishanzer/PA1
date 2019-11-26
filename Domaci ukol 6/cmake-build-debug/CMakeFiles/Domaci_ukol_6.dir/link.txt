@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/Domaci_ukol_6.dir/main.c.o  -o Domaci_ukol_6 
